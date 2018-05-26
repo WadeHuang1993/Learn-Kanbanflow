@@ -8,7 +8,7 @@ Kanban Flow 能幫你列出專案的待做清單 (To Do List)，並且將清單�
 
 除了以上四種狀態以外，當然也可以自己新增/刪除新的清單分類。
 
-使用 Kanban Flow 的時候，強烈建議實施 [微亮計畫](https://www.facebook.com/ShiningEyesProject/posts/1668620683252604)去運行自己的計劃，做事情會變<hi #fff200>很有效率</hi>。
+使用 Kanban Flow 的時候，強烈建議實施 [微亮計畫](https://www.facebook.com/ShiningEyesProject/posts/1668620683252604)去運行自己的計劃，做事情會變**很有效率**。
 
 總結微亮計畫使用守則:
 
