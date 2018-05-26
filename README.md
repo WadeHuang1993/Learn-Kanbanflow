@@ -1,6 +1,6 @@
 # Kanban Flow 時間管理
 
-[Kanban Flow]https://kanbanflow.com) 其實是一個專案管理工具，可以多人協同使用一個 kanban。
+[Kanban Flow](https://kanbanflow.com) 其實是一個專案管理工具，可以多人協同使用一個 kanban。
 
 Kanban Flow 能幫你列出專案的待做清單 (To Do List)，並且將清單分類成`To-Do`、`Do Today`、`In Progress`、`Done`四種狀態。
 
