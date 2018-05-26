@@ -1,4 +1,4 @@
-#Kanban Flow 時間管理
+# Kanban Flow 時間管理
 
 [kanbanflow.com](https://kanbanflow.com)
 
